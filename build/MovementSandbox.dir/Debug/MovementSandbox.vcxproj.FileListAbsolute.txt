@@ -1,3 +1,0 @@
-C:\Users\dylan\Desktop\Content\1ABC\MovementSandbox\build\Debug\raylib.dll
-C:\Users\dylan\Desktop\Content\1ABC\MovementSandbox\build\Debug\glfw3.dll
-C:\Users\dylan\Desktop\Content\1ABC\MovementSandbox\build\MovementSandbox.dir\Debug\Movement.191DA5CE.Up2Date
